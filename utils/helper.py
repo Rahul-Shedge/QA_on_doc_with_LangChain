@@ -1,6 +1,8 @@
 import os
 from langchain.document_loaders import PyPDFLoader,Docx2txtLoader,TextLoader
 
+
+
 def load_document(file):
     
     filename,extension = os.path.splitext(file)
