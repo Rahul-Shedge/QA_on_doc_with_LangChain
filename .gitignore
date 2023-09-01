@@ -8,8 +8,11 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+Llama-2-7b-chat-hf/
+Llama-2-7b-chat-hf
 build/
 develop-eggs/
+
 dist/
 downloads/
 eggs/
