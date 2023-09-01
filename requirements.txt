@@ -6,4 +6,3 @@ docx2txt
 pypdf
 streamlit
 chromadb
-tiktoken
