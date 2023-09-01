@@ -22,5 +22,14 @@ Open-Source LLM model from HuggingFace.
 git clone https://huggingface.co/google/flan-t5-large
 ```
 
+or 
+```
+git clone https://huggingface.co/tinyorbit/llama2-qlora-finetunined-Human_assistant_model
+```
+
+
+```
+pip install -r requirements.txt
+```
 
 
